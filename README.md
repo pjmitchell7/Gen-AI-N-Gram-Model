@@ -8,11 +8,7 @@ Google Drive LINK: https://drive.google.com/drive/folders/1LOJm5cwTWKC8J1iYJmvHV
 
 ## **Step 1: Open Google Colab**
 1. Go to [Google Colab](https://colab.research.google.com/).
-2. Click **"File" > "Open Notebook"**.
-3. Select the **GitHub** tab, enter your GitHub repository URL, and open the notebook.
-
-Alternatively, if using Google Drive:
-- Select the **Google Drive** tab and locate **HW1.ipynb**.
+2. Locate **HW1.ipynb** in this GitHub repository, download it locally, and open it in google colab.
 
 ---
 
