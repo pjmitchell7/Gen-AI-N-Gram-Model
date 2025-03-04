@@ -9,6 +9,7 @@ Google Drive LINK: https://drive.google.com/drive/folders/1LOJm5cwTWKC8J1iYJmvHV
 ## **Step 1: Open Google Colab**
 1. Go to [Google Colab](https://colab.research.google.com/).
 2. Locate **HW1.ipynb** in this GitHub repository, download it locally, and open it in google colab.
+    2.5. You can also access it here for the downloaded pkl files:  https://colab.research.google.com/drive/17JjbDYHUTIOimwySca5vKRketFYckYB6?usp=sharing
 
 ---
 
