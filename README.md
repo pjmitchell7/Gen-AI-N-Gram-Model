@@ -2,7 +2,8 @@
 Generative AI for Software Dev Homework 1 - Paul Mitchell &amp; Stephanie Omondiale
 ### **Tutorial: Running the N-Gram Model on Google Colab Using a Public Google Drive Folder**
 This guide provides step-by-step instructions for running the N-Gram model on Google Colab using a public Google Drive folder. This ensures that anyone with the link can access and run the model consistently without manual file uploads.
-
+-----
+Google Drive LINK: https://drive.google.com/drive/folders/1LOJm5cwTWKC8J1iYJmvHVG-E-9X6nzqV?usp=sharing
 ---
 
 ## **Step 1: Open Google Colab**
